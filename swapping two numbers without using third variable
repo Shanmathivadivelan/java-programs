@@ -12,7 +12,7 @@ public class SwapNumbers {
         b = a - b;
         a = a - b;
         
-        System.out.println("After swapping: First number = " "+a, Second number = "" + b");
+        System.out.println("After swapping: First number =" +a, Second number = " + b);
         sc.close();
     }
 }
